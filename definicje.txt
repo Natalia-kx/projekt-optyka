@@ -1,0 +1,22 @@
+Obraz pozorny - obraz przedmiotu, utworzony przez przecięcie się przedłużeń promieni świetlnych.
+Obraz rzeczywisty - obraz przedmiotu, który powstaje w wyniku przecięcia się promieni przechodzących przez układ optyczny.
+Obraz odwrócony - obraz, jest odwrócony o 180 stopni względem przedmiotu.
+Obraz prosty - obraz nieodwrócony.
+Obraz tej samej wielkości - powiększenie obrazu jest równe 1.
+Obraz powiększony - powiększenie obrazu jest większe niż 1.
+Obraz pomniejszony - powiększenie obrazu jest mniejsze niż 1.
+Ogniskowa zwierciadła jest równa połowie promienia krzywizny:
+f=r/2
+Równanie zwierciadła/soczewki:
+1   1   1
+- = - + -
+f   x   y
+~Gdzie (f) oznacza ogniskową, (x) odległość przedmiotu, (y) odległość obrazu.
+Zdolność skupiająca soczewki jest to odwrotność ogniskowej wyrażonej w metrach:
+Z=1/f
+~Gdzie (f) dla soczewki skupiającej jest rzeczywiste, więc przyjmuje wartość dodatnią, a
+(f) dla soczewki rozpraszającej jest pozorne, więc przyjmuje wartość ujemną.
+Współczynnik powiększenia obrazu jest wartością bezwzględną o wzorze:
+p=|y/x|
+
+
